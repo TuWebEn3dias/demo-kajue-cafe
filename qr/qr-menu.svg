@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FAF7F2" rx="8"/>
+  <g fill="#1A1A1A">
+    <!-- Top-left finder -->
+    <rect x="20" y="20" width="40" height="40"/>
+    <rect x="24" y="24" width="32" height="32" fill="#FAF7F2"/>
+    <rect x="28" y="28" width="24" height="24"/>
+    <!-- Top-right finder -->
+    <rect x="140" y="20" width="40" height="40"/>
+    <rect x="144" y="24" width="32" height="32" fill="#FAF7F2"/>
+    <rect x="148" y="28" width="24" height="24"/>
+    <!-- Bottom-left finder -->
+    <rect x="20" y="140" width="40" height="40"/>
+    <rect x="24" y="144" width="32" height="32" fill="#FAF7F2"/>
+    <rect x="28" y="148" width="24" height="24"/>
+    <!-- Timing patterns -->
+    <rect x="68" y="36" width="8" height="8"/>
+    <rect x="84" y="36" width="8" height="8"/>
+    <rect x="100" y="36" width="8" height="8"/>
+    <rect x="116" y="36" width="8" height="8"/>
+    <rect x="36" y="68" width="8" height="8"/>
+    <rect x="36" y="84" width="8" height="8"/>
+    <rect x="36" y="100" width="8" height="8"/>
+    <rect x="36" y="116" width="8" height="8"/>
+    <!-- Data modules pattern -->
+    <rect x="68" y="68" width="8" height="8"/>
+    <rect x="84" y="68" width="8" height="8"/>
+    <rect x="100" y="68" width="8" height="8"/>
+    <rect x="68" y="84" width="8" height="8"/>
+    <rect x="100" y="84" width="8" height="8"/>
+    <rect x="116" y="84" width="8" height="8"/>
+    <rect x="132" y="84" width="8" height="8"/>
+    <rect x="68" y="100" width="8" height="8"/>
+    <rect x="84" y="100" width="8" height="8"/>
+    <rect x="116" y="100" width="8" height="8"/>
+    <rect x="68" y="116" width="8" height="8"/>
+    <rect x="100" y="116" width="8" height="8"/>
+    <rect x="132" y="116" width="8" height="8"/>
+    <rect x="84" y="132" width="8" height="8"/>
+    <rect x="100" y="132" width="8" height="8"/>
+    <rect x="116" y="132" width="8" height="8"/>
+    <rect x="132" y="132" width="8" height="8"/>
+    <rect x="148" y="132" width="8" height="8"/>
+    <rect x="164" y="132" width="8" height="8"/>
+    <rect x="68" y="148" width="8" height="8"/>
+    <rect x="84" y="148" width="8" height="8"/>
+    <rect x="100" y="148" width="8" height="8"/>
+    <rect x="68" y="164" width="8" height="8"/>
+    <rect x="84" y="164" width="8" height="8"/>
+    <rect x="100" y="164" width="8" height="8"/>
+    <rect x="116" y="164" width="8" height="8"/>
+    <rect x="132" y="164" width="8" height="8"/>
+    <rect x="148" y="164" width="8" height="8"/>
+    <rect x="164" y="164" width="8" height="8"/>
+    <rect x="148" y="68" width="8" height="8"/>
+    <rect x="164" y="68" width="8" height="8"/>
+    <rect x="148" y="100" width="8" height="8"/>
+    <rect x="164" y="100" width="8" height="8"/>
+    <rect x="148" y="148" width="8" height="8"/>
+    <rect x="164" y="148" width="8" height="8"/>
+    <rect x="68" y="148" width="8" height="8"/>
+    <rect x="148" y="164" width="8" height="8"/>
+    <rect x="84" y="84" width="8" height="8"/>
+    <rect x="100" y="100" width="8" height="8"/>
+    <rect x="116" y="116" width="8" height="8"/>
+    <rect x="84" y="116" width="8" height="8"/>
+    <rect x="116" y="100" width="8" height="8"/>
+    <rect x="132" y="100" width="8" height="8"/>
+    <rect x="132" y="68" width="8" height="8"/>
+    <rect x="116" y="68" width="8" height="8"/>
+    <rect x="148" y="84" width="8" height="8"/>
+    <rect x="68" y="132" width="8" height="8"/>
+    <rect x="164" y="84" width="8" height="8"/>
+    <rect x="164" y="116" width="8" height="8"/>
+    <rect x="132" y="148" width="8" height="8"/>
+    <rect x="100" y="132" width="8" height="8"/>
+  </g>
+  <!-- Accent center dot -->
+  <rect x="92" y="92" width="16" height="16" rx="2" fill="#C4703F"/>
+  <!-- Label -->
+  <text x="100" y="192" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#6B6B6B">Men\u00fa Kajue Caf\u00e9</text>
+</svg>
